@@ -1,0 +1,12 @@
+body {
+    background-color: #585858;
+}
+
+.dir-rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+.pointer {
+    cursor: pointer;
+}
