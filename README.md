@@ -6,4 +6,4 @@ Simple calendar project with date javascript library
 
 ## used
 
-vue - javascript - bootstrap 
+vue - bootstrap 
